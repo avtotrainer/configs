@@ -1,0 +1,27 @@
+[colors.primary]
+background = "0x000000"
+foreground = "0xFFFFFF"
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "JetbrainsMono Nerd Font"
+style = "Bold"
+
+[font.normal]
+family = "JetbrainsMono Nerd Font"
+
+[window.dimensions]
+columns = 80
+lines = 24
+
+[window.padding]
+x = 0
+y = 0
+
+[window]
+opacity=0.9
+
+
+
